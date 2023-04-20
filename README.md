@@ -1,9 +1,9 @@
-<h2>Ola! Eu sou o Henrique, sou atualmente estudante de Ciência da Computação, no terceiro semestre pela Universidade Paulista. Fique a vontade para ver meus repositorios :D</h2>
+<h2>Ola! Eu me chamo Henrique, atualmente, sou estudante de Ciência da Computação, no terceiro semestre pela Universidade Paulista (UNIP). Fique à vontade para ver meus repositórios.</h2>
 
 
 
 <h3>🚀 Skills:<h3>
-  Atualmente estou com foco em programção com as seguintes linguagens Python, Java e VBA.
+  Tenho foco em programação com as seguintes linguagens: Python, Java e VBA.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Henrique-html" height="30" width="100" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
