@@ -13,10 +13,24 @@
   <img align="center" alt="Henrique-Java" height="30" width="100" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
   
 </div>
-
-##
-
+  <h3>👩‍💻 IDE:</h3>
 <div>
+    <img align="center" alt="Henrique-Netbeans" height="30" width="150" src="https://img.shields.io/badge/apache%20netbeans-1B6AC6?style=for-the-badge&logo=apache%20netbeans%20IDE&logoColor=white">
+    <img align="center" alt="Henrique-Pycharm" height="30" width="150" src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white">
+    <img align="center" alt="Henrique-Vscode" height="30" width="150" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+    <img align="center" alt="Henrique-Dreamweaver" height="30" width="150" src="https://img.shields.io/badge/Adobe%20Dreamweaver-072401?style=for-the-badge&logo=Adobe%20Dreamweaver&logoColor=34F400">
+</div>
+  
+##
+  
+<div>
+  <img align=top src="https://github-readme-stats.vercel.app/api?username=Henrique0078&show_icons=true&theme=transparent">
+  <img align=top src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henrique0078&theme=transparent">
+</div>
+  
+##
+  
+  <div>
   <a href="mailto:henriquefontenele078@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/henrique-fontenele-749161235/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://www.instagram.com/fontenele_hq/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
