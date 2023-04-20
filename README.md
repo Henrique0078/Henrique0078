@@ -1,4 +1,4 @@
-<h2>Ola! Eu sou o Henrique, sou atualmente estudante de Ciência da Computação, no terceiro semestre pela Universidade Paulista. Fique a vontade para ver meus projetos :D</h2>
+<h2>Ola! Eu sou o Henrique, sou atualmente estudante de Ciência da Computação, no terceiro semestre pela Universidade Paulista. Fique a vontade para ver meus repositorios :D</h2>
 
 
 
