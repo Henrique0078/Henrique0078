@@ -24,7 +24,7 @@
 ##
   
 <div>
-  <img align=top src="https://github-readme-stats.vercel.app/api?username=Henrique0078&show_icons=true&theme=transparent">
+  <img align=top src="https://github-readme-stats.vercel.app/api?username=Henrique0078&theme=transparent"> <!-- (https://github.com/anuraghazra/github-readme-stats) -->
   <img align=top src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henrique0078&theme=transparent">
 </div>
   
