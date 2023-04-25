@@ -24,7 +24,7 @@
 ##
   
 <div>
-  <img align=top src="https://github-readme-stats.vercel.app/api?username=Henrique0078&theme=transparent&count_private=true&bg_color=00000000&locale=pt">
+  <img align=top src="https://github-readme-stats.vercel.app/api?username=Henrique0078&theme=transparent&count_private=true&bg_color=00000000&locale=pt-br">
   <!-- (https://github.com/anuraghazra/github-readme-stats) -->
   <img align=top src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henrique0078&theme=transparent&count_private=true&bg_color=00000000">
 </div>
