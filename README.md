@@ -1,4 +1,4 @@
-<h2>Ola! Eu me chamo Henrique, atualmente, sou estudante de Ciência da Computação, no terceiro semestre pela Universidade Paulista (UNIP). Fique à vontade para ver meus repositórios.</h2>
+<h2>Ola! Eu me chamo Henrique, atualmente, sou estudante de Ciência da Computação, no quarto semestre pela Universidade Paulista (UNIP). Fique à vontade para ver meus repositórios.</h2>
 
 
 
