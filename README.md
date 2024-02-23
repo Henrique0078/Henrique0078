@@ -60,9 +60,9 @@ Back-End:
 ##
 
 <div>
-  <img align=top src="https://github-readme-stats.vercel.app/api?username=Henrique0078&theme=transparent&count_private=true&bg_color=00000000&locale=pt-br">
+  <img align=top src="https://github-readme-stats.vercel.app/api?username=Henrique0078&theme=transparent&count_private=true&bg_color=00000000&locale=pt-br" height=282 width=500>
   <!-- (https://github.com/anuraghazra/github-readme-stats) -->
-  <img align=top src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henrique0078&theme=transparent&count_private=true&bg_color=00000000&locale=pt-br"><br>
+  <img align=top src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henrique0078&theme=transparent&count_private=true&bg_color=00000000&locale=pt-br" width=400><br>
   
   <img align=top width=960
     src="https://github-readme-stats.vercel.app/api/wakatime?username=018dd1b5-cb7c-4567-a0e3-b2c1acd3f45f&theme=transparent&count_private=true&bg_color=00000000&locale=pt-br">
