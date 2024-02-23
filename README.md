@@ -37,7 +37,7 @@ Back-End:
   <br>
   <img align="center" alt="Henrique-ExpressJs" height="30" width="100" src="https://img.shields.io/badge/Express.js-708090?style=for-the-badge&logo=express&logoColor=black">
   <img align="center" alt="Henrique-SKLearn" height="30" width="100" src="https://img.shields.io/badge/SKLearn-4682B4?style=for-the-badge&logo=scikit-learn&logoColor=white">
-  <img align="center" alt="Henrique-DBeaver" height="30" width="150" src="https://img.shields.io/badge/Pandas-46824?style=for-the-badge&logo=pandas&logoColor=white">
+  <img align="center" alt="Henrique-Pandas" height="30" width="100" src="https://img.shields.io/badge/Pandas-46824?style=for-the-badge&logo=pandas&logoColor=white">
 </div>
 
 ##
